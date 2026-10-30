@@ -1,0 +1,19 @@
+# 2026-10-30 清理记录（MiTV-ASTP0 / L65RB-RA）
+# 卸载的第三方应用（如需恢复，从小米应用商店重装）
+org.mozilla.firefox                    # 279.8MB 火狐浏览器
+com.cmgame.gamehalltv                  # 62MB    游戏大厅
+com.mitv.shoplugin                     # 17.6MB  小米商城插件(含淘宝debugkit)
+com.miui.analytics                     # 0.5MB   埋点统计
+com.newtv.cboxtv                       # 32.7MB  NewTV 中国互联网电视(要会员)
+com.cibn.tv                            # 23MB    CIBN 未来电视(要会员)
+com.ktcp.video                         # 27.4MB  腾讯视频TV(要会员)
+com.lutongnet.nldmxXiaomiChildren      # 65MB    小米儿童内容
+com.baidu.netdisk.tv                   # 44.7MB  百度网盘TV
+com.kugou.android.tv                   # 43.8MB  酷狗音乐TV
+
+# 保留
+com.xiaodianshi.tv.yst                 # 云视听小电视 = B站官方TV客户端（用户保留，非直播软件）
+top.yogiczy.mytv                       # 直播
+com.fongmi.android.tv                  # 点播
+com.mitv.codec.update                  # 解码器
+com.xiaomi.eetv.litehome               # 疑似投屏
